@@ -1,0 +1,37 @@
+.banner{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(../images/pattern.jpeg);
+}
+
+#brushes-green{
+background-color: mediumspringgreen;
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+
+#frames-coral{
+background-color: lightcoral;
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+
+#paint-blue{
+background-color: skyblue;
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+
+.prices{
+font-family: Helvetica;
+color: blue;
+}
